@@ -1,6 +1,6 @@
 # ASCII Art Generator
 
-This is a Python-based ASCII Art Generator that uses the `pyfiglet` library to generate ASCII art from text. You can choose different fonts, display ASCII art for specific text,
+Python-based ASCII Art Generator that uses the `pyfiglet` library to generate ASCII art from text. You can choose different fonts, display ASCII art for specific text,
 ## Features
 - Generate ASCII art from any input text.
 - Choose from a variety of fonts.
